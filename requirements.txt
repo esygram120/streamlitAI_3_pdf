@@ -1,0 +1,8 @@
+streamlit
+PyPDFLoader
+RecursiveCharacterTextSplitter
+HuggingFaceEmbeddings
+Chroma
+PromptTemplate
+RunnablePassthrough
+ChatGoogleGenerativeAI
